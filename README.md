@@ -1,7 +1,7 @@
 # Training-for-CEH
 These are recommendations I have received from those who have passed the certification.
 
-##Tools:
+## Tools:
 Certified Ethical Hacking tools facilitate a military operation, making back doors and payloads, cracking passwords, and an array of different activities.
 * Metasploit 
 * Responder LLMNR
@@ -24,7 +24,7 @@ Certified Ethical Hacking tools facilitate a military operation, making back doo
 * John
 * Hashcat
 
-##Exercises and labs
+## Exercises and labs
 * iLabs CEH (https://ilabs.eccouncil.org/ethical-hacking-exercises/)
 
 There is nothing better than training with CTFs. It is quite accessible for beginners and a good review ground for intermediate hackers.
@@ -34,7 +34,7 @@ There is nothing better than training with CTFs. It is quite accessible for begi
 
 There are very interesting rooms like: https://tryhackme.com/room/hydra / https://tryhackme.com/room/wirectf / https://tryhackme.com/room/sqli / https://tryhackme.com/room/crackthehash /
 
-##Reviews and Details CEH Practical
+## Reviews and Details CEH Practical
 
 https://www.reddit.com/r/CEH/comments/ek0gzp/ceh_practical_passed_2020/
 
